@@ -757,6 +757,19 @@
 
                             .Producer-div-img-img:hover {transform: scale(1.02);}
 
+                            /* **************** Producer phone **********************/  
+                            
+                            @media only screen and (max-width: 1000px) {
+                                .Producer-div-img {
+                                    width: 90%;
+                                }
+
+
+
+
+
+                            }
+
 
 
                             /* **************** Producer INFO **********************/   
@@ -833,6 +846,40 @@
                                 height: 2px;
                                 margin-top: 30px;
                             }
+                            /* **************** Producer INFO phone **********************/  
+                            
+                            @media only screen and (max-width: 1000px) {
+                                .Producer-info-div-M {
+                                    width: 90%;
+                                }
+
+
+                                .Producer-line {
+                                    width: 90%;
+                                }
+                                .Producer-text-M p {
+                                    font-size: 13px;
+                                    margin: 0;
+                                }
+                                .Producer-text-div-L {
+                                    width: 80%;
+                                }
+                                .Producer-text-div-R {
+                                    width: 20%;
+
+                                }
+                                .Producer-info-div-S {
+                                    width: 95%;
+                                }
+
+
+
+
+
+                            }                            
+
+
+
                             /* ****************img-section**********************/
 
                             .img-section {
